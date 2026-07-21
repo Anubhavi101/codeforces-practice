@@ -5,7 +5,9 @@
 **Registration Number:** [24MIP10164]
 
 **Codeforces Handle:** [Anubhavi101](https://codeforces.com/profile/Anubhavi101)
+
 **Started:** 2026-07-21
+
 **Total problems solved:** 1
 
 ---
