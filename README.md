@@ -10,7 +10,7 @@
 
 **Started:** 2026-07-21
 
-**Total problems solved:** 3
+**Total problems solved:** 4
 
 ---
 
@@ -21,3 +21,4 @@
 | 2026-07-21 | [4A - Watermelon](https://codeforces.com/problemset/problem/4/A) | [code](./watermelon.java) | 800 | math, brute force | ✅ |
 | 2026-07-21 | [71A - Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [code](./WayTooLongWords.java) | 800 | strings, implementation | ✅ |
 | 2026-07-22 | [158A - Next Round](https://codeforces.com/problemset/problem/158/A) | [code](./NextRound.java) | 800 | implementation | ✅ |
+| 2026-07-22 | [231A - Team](https://codeforces.com/problemset/problem/231/A) | [code](./Team.java) | 800 | brute force | ✅ |
