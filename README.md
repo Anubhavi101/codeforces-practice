@@ -10,7 +10,7 @@
 
 **Started:** 2026-07-21
 
-**Total problems solved:** 4
+**Total problems solved:** 5
 
 ---
 
@@ -22,3 +22,4 @@
 | 2026-07-21 | [71A - Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | [code](./WayTooLongWords.java) | 800 | strings, implementation | ✅ |
 | 2026-07-22 | [158A - Next Round](https://codeforces.com/problemset/problem/158/A) | [code](./NextRound.java) | 800 | implementation | ✅ |
 | 2026-07-22 | [231A - Team](https://codeforces.com/problemset/problem/231/A) | [code](./Team.java) | 800 | brute force | ✅ |
+| 2026-07-23 | [282A - Bit++](https://codeforces.com/problemset/problem/282/A) | [code](./BitPlusPlus.java) | 800 | implementation | ✅ |
