@@ -10,7 +10,7 @@
 
 **Started:** 2026-07-21
 
-**Total problems solved:** 8
+**Total problems solved:** 9
 
 ---
 
@@ -26,3 +26,4 @@
 | 2026-07-23 | [50A - Domino piling](https://codeforces.com/problemset/problem/50/A) | [code](./Dominopiling.java) | 800 | implementation | ✅ |
 | 2026-07-24 | [266A - Stones on the Table](https://codeforces.com/problemset/problem/266/A) | [code](./Stonesonthetable.java) | 800 | implementation | ✅ |
 | 2026-07-24 | [112A - Petya and Strings](https://codeforces.com/problemset/problem/112/A) | [code](./petyaandstrings.java) | 800 | implementation | ✅ |
+| 2026-07-25 | [41A - Translation](https://codeforces.com/problemset/problem/41/A) | [code](./Translation.java) | 800 | brute force | ✅ |
