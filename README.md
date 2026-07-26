@@ -10,7 +10,7 @@
 
 **Started:** 2026-07-21
 
-**Total problems solved:** 11
+**Total problems solved:** 12
 
 ---
 
@@ -29,3 +29,4 @@
 | 2026-07-25 | [41A - Translation](https://codeforces.com/problemset/problem/41/A) | [code](./Translation.java) | 800 | brute force | ✅ |
 | 2026-07-25 | [1A - Theatre Square](https://codeforces.com/problemset/problem/1/A) | [code](./Theatresquare.java) | 800 | math | ✅ |
 | 2026-07-26 | [339A - Helpful Maths](https://codeforces.com/problemset/problem/339/A) | [code](./Helpfulmaths.java) | 800 | string + sorting | ✅ |
+| 2026-07-26 | [236A - Boy or Girl](https://codeforces.com/problemset/problem/282/A) | [code](./Boyorgirl.java) | 800 | string | ✅ |
