@@ -31,3 +31,4 @@
 | 2026-07-26 | [339A - Helpful Maths](https://codeforces.com/problemset/problem/339/A) | [code](./Helpfulmaths.java) | 800 | string + sorting | ✅ |
 | 2026-07-26 | [236A - Boy or Girl](https://codeforces.com/problemset/problem/282/A) | [code](./Boyorgirl.java) | 800 | string | ✅ |
 | 2026-07-28 | [546A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | [code](./SoldierandBananas.java) | 800 | loop | ✅ |
+| 2026-07-28 | [479 - Expression](https://codeforces.com/problemset/problem/479/A) | [code](./Expression.java) | 800 | logic | ✅ |
