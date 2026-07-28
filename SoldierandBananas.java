@@ -1,0 +1,22 @@
+// Problem: https://codeforces.com/problemset/problem/546/A
+// Date: 2026-07-28
+
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        long k = sc.nextLong();
+        long n = sc.nextLong();
+        long w = sc.nextLong();
+
+        long totalCost = k * w * (w + 1) / 2;
+
+        long borrow = Math.max(0, totalCost - n);
+
+        System.out.println(borrow);
+
+        sc.close();
+    }
+}
