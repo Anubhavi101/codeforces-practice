@@ -10,7 +10,7 @@
 
 **Started:** 2026-07-21
 
-**Total problems solved:** 14
+**Total problems solved:** 15
 
 ---
 
@@ -32,3 +32,4 @@
 | 2026-07-26 | [236A - Boy or Girl](https://codeforces.com/problemset/problem/282/A) | [code](./Boyorgirl.java) | 800 | string | ✅ |
 | 2026-07-28 | [546A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | [code](./SoldierandBananas.java) | 800 | loop | ✅ |
 | 2026-07-28 | [479 - Expression](https://codeforces.com/problemset/problem/479/A) | [code](./Expression.java) | 800 | logic | ✅ |
+| 2026-07-29 | [118 - String Task](https://codeforces.com/problemset/problem/118/A) | [code](./Stringtask.java) | 800 | implementation | ✅ |
