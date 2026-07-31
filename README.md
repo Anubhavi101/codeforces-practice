@@ -10,7 +10,7 @@
 
 **Started:** 2026-07-21
 
-**Total problems solved:** 16
+**Total problems solved:** 17
 
 ---
 
@@ -34,3 +34,4 @@
 | 2026-07-28 | [479 - Expression](https://codeforces.com/problemset/problem/479/A) | [code](./Expression.java) | 800 | logic | ✅ |
 | 2026-07-29 | [118 - String Task](https://codeforces.com/problemset/problem/118/A) | [code](./Stringtask.java) | 800 | implementation | ✅ |
 | 2026-07-30 | [133A - H9Q+](https://codeforces.com/problemset/problem/133/A) | [code](./H9Q+.java) | 800 | logic | ✅ |
+| 2026-07-31 | [25A - IQ Test](https://codeforces.com/problemset/problem/25/A) | [code](./IQtest.java) | 800 | implementation | ✅ |
