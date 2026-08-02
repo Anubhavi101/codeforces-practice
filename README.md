@@ -10,7 +10,7 @@
 
 **Started:** 2026-07-21
 
-**Total problems solved:** 18
+**Total problems solved:** 19
 
 ---
 
@@ -36,3 +36,4 @@
 | 2026-07-30 | [133A - H9Q+](https://codeforces.com/problemset/problem/133/A) | [code](./H9Q+.java) | 800 | logic | ✅ |
 | 2026-07-31 | [25A - IQ Test](https://codeforces.com/problemset/problem/25/A) | [code](./IQtest.java) | 800 | implementation | ✅ |
 | 2026-08-01 | [69A - Young Physicist](https://codeforces.com/problemset/problem/69/A) | [code](./YoungPhysicist.java) | 800 | vector | ✅ |
+| 2026-08-02 | [116A - Tram](https://codeforces.com/problemset/problem/116/A) | [code](./Tram.java) | 800 | max | ✅ |
