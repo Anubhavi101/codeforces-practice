@@ -10,7 +10,7 @@
 
 **Started:** 2026-07-21
 
-**Total problems solved:** 21
+**Total problems solved:** 22
 
 ---
 
@@ -39,3 +39,4 @@
 | 2026-08-02 | [116A - Tram](https://codeforces.com/problemset/problem/116/A) | [code](./Tram.java) | 800 | max | ✅ |
 | 2026-08-03 | [431A - Black Square](https://codeforces.com/problemset/problem/431/A) | [code](./BlackSquare.java) | 800 | implementation | ✅ |
 | 2026-08-04 | [148A - Insomia Cure](https://codeforces.com/problemset/problem/148/A) | [code](./InsomiaCure.java) | 800 | divisibility | ✅ |
+| 2026-08-05 | [263A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | [code](./BeautifulMatrix.java) | 800 | grid distance | ✅ |
